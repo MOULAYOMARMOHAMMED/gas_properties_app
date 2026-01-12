@@ -19,11 +19,11 @@ using the **Hall–Yarborough correlation**.
 **Features**
 - Reservoir-condition calculations  
 - Pressure-dependent curves  
-- Interactive pressure slider  
 - Matplotlib scientific plots  
-- Excel & PNG export  
+
 
 Developed for **petroleum & reservoir engineering applications**.
 """)
 
 st.info("Select **Gas Properties Calculator** from the left menu to begin.")
+
